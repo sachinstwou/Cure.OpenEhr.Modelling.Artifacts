@@ -1,0 +1,1 @@
+# Cure.OpenEhr.Modelling.Artifacts
